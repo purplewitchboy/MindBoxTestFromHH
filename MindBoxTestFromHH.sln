@@ -5,6 +5,8 @@ VisualStudioVersion = 17.2.32602.215
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MindBoxTestFromHH", "MindBoxTestFromHH\MindBoxTestFromHH.csproj", "{EEBEEFFE-B0F9-4EB9-AD60-C4C5BB3523AD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MindBoxSQLTest", "MindBoxSQLTest\MindBoxSQLTest.csproj", "{478B15FD-25D6-450A-ABC4-2D0E7033EE7D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{EEBEEFFE-B0F9-4EB9-AD60-C4C5BB3523AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EEBEEFFE-B0F9-4EB9-AD60-C4C5BB3523AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EEBEEFFE-B0F9-4EB9-AD60-C4C5BB3523AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{478B15FD-25D6-450A-ABC4-2D0E7033EE7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{478B15FD-25D6-450A-ABC4-2D0E7033EE7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{478B15FD-25D6-450A-ABC4-2D0E7033EE7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{478B15FD-25D6-450A-ABC4-2D0E7033EE7D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
